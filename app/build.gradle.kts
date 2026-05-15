@@ -58,5 +58,7 @@ dependencies {
     // Coroutines pour gérer le code asynchrone
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.7")
+    implementation ("com.google.code.gson:gson:2.10.1")
+
 }
 
